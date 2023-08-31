@@ -2,161 +2,110 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://examplesite.com/tags/art/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+    <loc>https://an2chien.github.io/about/</loc>
   </url><url>
-    <loc>https://examplesite.com/categories/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+    <loc>https://an2chien.github.io/english/about/</loc>
+  </url><url>
+    <loc>https://an2chien.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="menu"
-                href="https://examplesite.com/menu/categories/"
+                href="https://an2chien.github.io/menu/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://examplesite.com/categories/"
+                href="https://an2chien.github.io/categories/"
                 />
   </url><url>
-    <loc>https://examplesite.com/categories/database/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+    <loc>https://an2chien.github.io/contact/</loc>
   </url><url>
-    <loc>https://examplesite.com/tags/design/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+    <loc>https://an2chien.github.io/english/contact/</loc>
   </url><url>
-    <loc>https://examplesite.com/categories/design/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+    <loc>https://an2chien.github.io/categories/edm/</loc>
   </url><url>
-    <loc>https://examplesite.com/tags/development/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+    <loc>https://an2chien.github.io/english/</loc>
   </url><url>
-    <loc>https://examplesite.com/categories/development/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+    <loc>https://an2chien.github.io/categories/graphic-design/</loc>
   </url><url>
-    <loc>https://examplesite.com/english/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+    <loc>https://an2chien.github.io/banner/</loc>
   </url><url>
-    <loc>https://examplesite.com/categories/logo/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+    <loc>https://an2chien.github.io/english/banner/</loc>
   </url><url>
-    <loc>https://examplesite.com/blog/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+    <loc>https://an2chien.github.io/english/portfolio/project-9/</loc>
   </url><url>
-    <loc>https://examplesite.com/english/blog/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+    <loc>https://an2chien.github.io/portfolio/project-9/</loc>
   </url><url>
-    <loc>https://examplesite.com/english/portfolio/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+    <loc>https://an2chien.github.io/english/portfolio/project-10/</loc>
   </url><url>
-    <loc>https://examplesite.com/portfolio/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+    <loc>https://an2chien.github.io/portfolio/project-10/</loc>
   </url><url>
-    <loc>https://examplesite.com/english/portfolio/project-2/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+    <loc>https://an2chien.github.io/english/portfolio/project-%EF%BC%98/</loc>
   </url><url>
-    <loc>https://examplesite.com/portfolio/project-2/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+    <loc>https://an2chien.github.io/portfolio/project-%EF%BC%98/</loc>
   </url><url>
-    <loc>https://examplesite.com/english/portfolio/project-3/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+    <loc>https://an2chien.github.io/english/portfolio/</loc>
   </url><url>
-    <loc>https://examplesite.com/portfolio/project-3/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+    <loc>https://an2chien.github.io/portfolio/</loc>
   </url><url>
-    <loc>https://examplesite.com/english/portfolio/project-4/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+    <loc>https://an2chien.github.io/categories/project/</loc>
   </url><url>
-    <loc>https://examplesite.com/portfolio/project-4/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://examplesite.com/english/portfolio/project-5/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://examplesite.com/portfolio/project-5/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://examplesite.com/english/portfolio/project-6/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://examplesite.com/portfolio/project-6/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://examplesite.com/categories/sketch/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://examplesite.com/tags/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+    <loc>https://an2chien.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="menu"
-                href="https://examplesite.com/menu/tags/"
+                href="https://an2chien.github.io/menu/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://examplesite.com/tags/"
+                href="https://an2chien.github.io/tags/"
                 />
   </url><url>
-    <loc>https://examplesite.com/blog/blog-1/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+    <loc>https://an2chien.github.io/categories/web/</loc>
   </url><url>
-    <loc>https://examplesite.com/english/blog/blog-1/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+    <loc>https://an2chien.github.io/english/portfolio/project-7/</loc>
   </url><url>
-    <loc>https://examplesite.com/blog/blog-2/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+    <loc>https://an2chien.github.io/portfolio/project-7/</loc>
   </url><url>
-    <loc>https://examplesite.com/english/blog/blog-2/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+    <loc>https://an2chien.github.io/english/portfolio/project-5/</loc>
   </url><url>
-    <loc>https://examplesite.com/blog/blog-3/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+    <loc>https://an2chien.github.io/portfolio/project-5/</loc>
   </url><url>
-    <loc>https://examplesite.com/english/blog/blog-3/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+    <loc>https://an2chien.github.io/english/portfolio/project-4/</loc>
   </url><url>
-    <loc>https://examplesite.com/tags/web/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+    <loc>https://an2chien.github.io/portfolio/project-4/</loc>
   </url><url>
-    <loc>https://examplesite.com/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+    <loc>https://an2chien.github.io/english/portfolio/project-1/</loc>
+  </url><url>
+    <loc>https://an2chien.github.io/portfolio/project-1/</loc>
+  </url><url>
+    <loc>https://an2chien.github.io/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="menu"
-                href="https://examplesite.com/menu/"
+                href="https://an2chien.github.io/menu/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://examplesite.com/"
+                href="https://an2chien.github.io/"
                 />
   </url><url>
-    <loc>https://examplesite.com/funfacts/</loc>
+    <loc>https://an2chien.github.io/english/portfolio/project-6/</loc>
   </url><url>
-    <loc>https://examplesite.com/english/funfacts/</loc>
+    <loc>https://an2chien.github.io/portfolio/project-6/</loc>
   </url><url>
-    <loc>https://examplesite.com/banner/</loc>
+    <loc>https://an2chien.github.io/english/portfolio/project-11/</loc>
   </url><url>
-    <loc>https://examplesite.com/english/banner/</loc>
+    <loc>https://an2chien.github.io/portfolio/project-11/</loc>
   </url><url>
-    <loc>https://examplesite.com/about/</loc>
+    <loc>https://an2chien.github.io/english/portfolio/project-3/</loc>
   </url><url>
-    <loc>https://examplesite.com/english/about/</loc>
+    <loc>https://an2chien.github.io/portfolio/project-3/</loc>
   </url><url>
-    <loc>https://examplesite.com/call-to-action/</loc>
+    <loc>https://an2chien.github.io/english/portfolio/project-2/</loc>
   </url><url>
-    <loc>https://examplesite.com/english/call-to-action/</loc>
-  </url><url>
-    <loc>https://examplesite.com/contact/</loc>
-  </url><url>
-    <loc>https://examplesite.com/english/contact/</loc>
-  </url><url>
-    <loc>https://examplesite.com/service/</loc>
-  </url><url>
-    <loc>https://examplesite.com/english/service/</loc>
-  </url><url>
-    <loc>https://examplesite.com/english/portfolio/project-1/</loc>
-  </url><url>
-    <loc>https://examplesite.com/portfolio/project-1/</loc>
+    <loc>https://an2chien.github.io/portfolio/project-2/</loc>
   </url>
 </urlset>

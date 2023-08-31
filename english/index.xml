@@ -2,63 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Englishes on 簡怡安作品集</title>
-    <link>https://examplesite.com/english/</link>
+    <link>https://an2chien.github.io/english/</link>
     <description>Recent content in Englishes on 簡怡安作品集</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
-    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://examplesite.com/english/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://an2chien.github.io/english/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>https://examplesite.com/english/funfacts/</link>
+      <title>ABOUT ME</title>
+      <link>https://an2chien.github.io/english/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/english/funfacts/</guid>
+      <guid>https://an2chien.github.io/english/about/</guid>
+      <description>我是簡怡安，擅長平面設計、圖文編排、插畫設計。目前已有三年以上的平面設計正職經歷。我擁有一顆積極的上進心，並熱衷於學習新事物。 除了本身的具備的設計基礎，我也積極學習繪畫、攝影、語言，並時時精進自己的技術與能力。態度認真、樂於對話是我的特質，與客戶、同事間皆能有良好的溝通，並能順利完成專案。</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://an2chien.github.io/english/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://an2chien.github.io/english/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hello, I am Yi-An Chien</title>
-      <link>https://examplesite.com/english/banner/</link>
+      <link>https://an2chien.github.io/english/banner/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/english/banner/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>KNOW MORE &lt;br&gt; ABOUT ME</title>
-      <link>https://examplesite.com/english/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://examplesite.com/english/about/</guid>
-      <description>It&amp;rsquo;s Somrat, Professional Web Developer. I love to write code, it&amp;rsquo;s my passoin.</description>
-    </item>
-    
-    <item>
-      <title>NEED A SERVICE?</title>
-      <link>https://examplesite.com/english/call-to-action/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://examplesite.com/english/call-to-action/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SAY HELLO!</title>
-      <link>https://examplesite.com/english/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://examplesite.com/english/contact/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SERVICES</title>
-      <link>https://examplesite.com/english/service/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://examplesite.com/english/service/</guid>
+      <guid>https://an2chien.github.io/english/banner/</guid>
       <description></description>
     </item>
     

@@ -2,54 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 簡怡安作品集</title>
-    <link>https://examplesite.com/categories/</link>
+    <link>https://an2chien.github.io/categories/</link>
     <description>Recent content in Categories on 簡怡安作品集</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
-    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://examplesite.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://an2chien.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>database</title>
-      <link>https://examplesite.com/categories/database/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      <title>EDM</title>
+      <link>https://an2chien.github.io/categories/edm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/categories/database/</guid>
+      <guid>https://an2chien.github.io/categories/edm/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>design</title>
-      <link>https://examplesite.com/categories/design/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      <title>Graphic Design</title>
+      <link>https://an2chien.github.io/categories/graphic-design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/categories/design/</guid>
+      <guid>https://an2chien.github.io/categories/graphic-design/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>development</title>
-      <link>https://examplesite.com/categories/development/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      <title>Project</title>
+      <link>https://an2chien.github.io/categories/project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/categories/development/</guid>
+      <guid>https://an2chien.github.io/categories/project/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>logo</title>
-      <link>https://examplesite.com/categories/logo/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      <title>Web</title>
+      <link>https://an2chien.github.io/categories/web/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/categories/logo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sketch</title>
-      <link>https://examplesite.com/categories/sketch/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://examplesite.com/categories/sketch/</guid>
+      <guid>https://an2chien.github.io/categories/web/</guid>
       <description></description>
     </item>
     

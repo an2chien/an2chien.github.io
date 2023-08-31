@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://examplesite.com/menu/categories/</loc>
+    <loc>https://an2chien.github.io/menu/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://examplesite.com/categories/"
+                href="https://an2chien.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="menu"
-                href="https://examplesite.com/menu/categories/"
+                href="https://an2chien.github.io/menu/categories/"
                 />
   </url><url>
-    <loc>https://examplesite.com/menu/tags/</loc>
+    <loc>https://an2chien.github.io/menu/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://examplesite.com/tags/"
+                href="https://an2chien.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="menu"
-                href="https://examplesite.com/menu/tags/"
+                href="https://an2chien.github.io/menu/tags/"
                 />
   </url><url>
-    <loc>https://examplesite.com/menu/</loc>
+    <loc>https://an2chien.github.io/menu/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://examplesite.com/"
+                href="https://an2chien.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="menu"
-                href="https://examplesite.com/menu/"
+                href="https://an2chien.github.io/menu/"
                 />
   </url>
 </urlset>

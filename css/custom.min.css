@@ -15,45 +15,69 @@
 }
 
 
-.wrapper {
-    display: grid;
-    grid-template-columns: 100px 100px 100px;
-    margin-top: 2rem; 
-    width: 30px; 
-    height: 60px; 
-    background-color: aquamarines;
-  }
 
 .mypic{
   width: 20vw;
-  height: 20vw;
-  overflow: hidden;
   border-radius: 20px;
-  /* flex-wrap: wrap;
+  flex-wrap: wrap;
   flex: 1 1 500px;
-  position: absolute;
-  top: 20vh;
-  right: 10vw;
-  z-index: -10; */
-  
+  margin-left: 4rem;
 }
-
-.mypic img{
-    width: 25vw;
-    margin-top: -15%;
-    margin-left: -5%;
-    -o-object-fit: cover;
-       object-fit: cover;
-    align-items: right;
-  }
-
+  
 div.wrapper{
     display: grid;
     grid-template-columns: 100px 100px 100px;
-    margin-top: 2rem;
+    padding: 1rem;
+    padding-left: 3rem;
 }
 
 .subtitle-font{
     color: #6d6d6d;
     letter-spacing: 0.05rem;
+    padding-left: 2rem;
+}
+
+.portfolio{
+  background:#fff;padding:70px 0
+}
+
+div.project-wrap{
+  /* display: flex;
+  flex-wrap: wrap;
+  flex:300px 1 1;
+  justify-content: space-between; */
+  display: grid;
+  grid-template-columns: 400px 400px ;
+  column-gap: 1.5rem;
+  /* margin:2rem; */
+  
+}
+
+
+@media screen and (max-width:600px){
+  .mypic{
+    width: 40vw;
+    border-radius: 30px;
+    margin: 2.5rem;
+}
+}
+
+@media (max-width: 400px){
+  div.wrapper {
+    margin-top: 1rem;
+
+}
+}
+
+.p-credit{
+  text-align: right;
+  font-size: 0.5rem;
+}
+
+.mobile-a{
+  color:white
+}
+
+.mobile-a:hover {
+  color:#fff
 }

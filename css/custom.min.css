@@ -1,12 +1,9 @@
-/* *{
-    /* font-family: 'Rubik', 'Noto Sans TC';
-    font-weight: 800; */
+*{
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
 
-
-
-/* h1 h2 h3 h4.title-font{ */
-    /* font-family: 'Rubik', 'Noto Sans TC';
-    font-weight: 800; */
 
 
 .content2{
@@ -31,6 +28,21 @@ div.wrapper{
     padding-left: 3rem;
 }
 
+@media (min-width:600px) and (max-width:750px){
+div.wrapper{
+  display: grid;
+  grid-template-columns: 100px 100px ;
+  padding: 1rem;
+  
+}
+}
+
+@media (max-width: 400px){
+  div.wrapper {
+    margin-top: 1rem;
+    padding-left: 0rem;
+}
+}
 .subtitle-font{
     color: #6d6d6d;
     letter-spacing: 0.05rem;
@@ -42,12 +54,9 @@ div.wrapper{
 }
 
 div.project-wrap{
-  /* display: flex;
-  flex-wrap: wrap;
-  flex:300px 1 1;
-  justify-content: space-between; */
+ 
   display: grid;
-  grid-template-columns: 400px 400px ;
+  grid-template-columns: 350px 350px ;
   column-gap: 1.5rem;
   /* margin:2rem; */
   
@@ -62,12 +71,7 @@ div.project-wrap{
 }
 }
 
-@media (max-width: 400px){
-  div.wrapper {
-    margin-top: 1rem;
 
-}
-}
 
 .p-credit{
   text-align: right;
@@ -81,3 +85,87 @@ div.project-wrap{
 .mobile-a:hover {
   color:#fff
 }
+
+.footer-icon {
+  display: flex;
+  
+  justify-content: center;
+  align-items: center;
+  margin: 2rem;
+}
+
+.footer-icon img {
+
+  width:5vw;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  
+}
+
+.home{
+  margin: 2rem 0 2rem 2rem;
+}
+
+.home a {
+  color: #6f6f6f;
+}
+
+.home p {
+  font-size: 1.25rem;
+  font-weight:600
+}
+
+
+
+@media (max-width:500px) {
+  .footer-icon img {
+
+    width: 10vw;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    
+  }
+}
+
+@media (max-width:650px){
+  div.project-wrap{
+    
+    display: grid;
+    grid-template-columns: 300px ;
+    column-gap: 1.5rem;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  
+  }
+}
+
+@media (min-width:651px) and (max-width:800px){
+  div.project-wrap{
+    
+    display: grid;
+    grid-template-columns: 250px 250px;
+    column-gap: 1.5rem;
+   
+  }
+}
+
+@media (min-width:1200px){
+  div.project-wrap{
+    
+    display: grid;
+    grid-template-columns: 350px 350px 350px;
+    column-gap: 1.5rem;
+   
+  }
+}
+
+@media (max-width: 400px){
+  div.wrapper {
+    margin-top: 1rem;
+
+}
+}
+
+/* @media (min-width:601px) and(max-width:800px){
+.row{display: none;
+}
+} */
